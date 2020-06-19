@@ -1,0 +1,31 @@
+_repo: Clorinda-Walks-in-Heaven_62385
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coppard, A. E. (Alfred Edgar)
+    alias: Coppard, Alfred Edgar
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '34960'
+    url: http://www.gutenberg.org/2009/agents/34960
+    wikipedia: https://en.wikipedia.org/wiki/A._E._Coppard
+description: ''
+gutenberg_issued: '2020-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62385'
+  lccn: '45047086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The hurly-burly -- Clorinda walks in heaven -- The cherry tree --
+  The elixir of youth -- Felix Tincler -- Craven arms -- A broadsheet ballad -- Cotton
+  -- Pomona's babe.
+title: Clorinda Walks in Heaven
+url: http://www.gutenberg.org/ebooks/62385
